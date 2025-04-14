@@ -1,0 +1,61 @@
+main{
+    margin: 1rem;
+    color: rgba(255, 0, 0, 0.589);
+}
+
+body{
+    background-color: rgb(10, 10, 10);
+}
+
+h1{
+    font-weight: bold;
+}
+
+h2{
+    font-weight: bold;
+}
+
+h3{
+    font-weight: bold;
+}
+
+
+
+#mmain{
+    text-align: center;
+    margin: 0.5rem;
+}
+
+#msec{
+    margin: 1rem;
+}
+
+#start{
+    width: 20%;
+}
+
+
+
+/* unvisited link */
+a:link {
+    color: rgb(153, 153, 153);
+    text-decoration: none;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+    text-decoration: none;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+  }
+  
+  /* selected link */
+  a:active {
+    color: rgba(0, 0, 161, 0.288);
+    text-decoration: none;
+  }
